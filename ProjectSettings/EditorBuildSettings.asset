@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene_MainMenu.unity
+    guid: d1947873a050af64e87c46c08b0bd125
+  - enabled: 1
+    path: Assets/Scenes/Scene_Victory.unity
+    guid: ca9e45c2f8e09c647a62bf1c60f6833f
+  - enabled: 1
+    path: Assets/Scenes/Scene_Lobby.unity
+    guid: cc16866e599de7a4a8699b1d8cf87a78
+  - enabled: 1
+    path: Assets/Scenes/Scene_Proto.unity
+    guid: 1d5d33c5fbb71e44e8b227634a92afad
+  - enabled: 1
+    path: Assets/Scenes/Scene_LevelSelection.unity
+    guid: 4e949a67f0bc8824c92cf6b5eb81e87e
+  - enabled: 1
+    path: Assets/Scenes/Level/Scene_Guillaume.unity
+    guid: 3fc664aa501cb1e4487fd4eec5a065b0
+  - enabled: 1
+    path: Assets/Scenes/Level/Scene_Leonie.unity
+    guid: ed39fbfcd8821fe4e9daf9ac8bb24043
+  - enabled: 1
+    path: Assets/Scenes/Level/Scene_Isaac.unity
+    guid: 02db05994102de7469da0d891eff2687
+  - enabled: 1
+    path: Assets/Scenes/Level/Scene_Maxwel.unity
+    guid: 4333171c1241f23469671901d114e376
+  - enabled: 1
+    path: Assets/Scenes/Level/Scene_Loic.unity
+    guid: 44a4d822b7fe8644eb180f7e44d3bcc6
+  - enabled: 1
+    path: Assets/Scenes/Level/Scene_Tuto.unity
+    guid: 52c60882176b0894b93ab55d463c71eb
+  - enabled: 1
+    path: Assets/Scenes/DevOnly/Sound/Scene_Lobby_Sound.unity
+    guid: 88d2baddcfe25054eac2457bc947bbbd
+  - enabled: 1
+    path: Assets/Scenes/DevOnly/Sound/Scene_Sound.unity
+    guid: 9b94ad606607d4d4ba87d57783431d80
+  - enabled: 1
+    path: Assets/Scenes/Level/Scene_Jerome.unity
+    guid: 0ff8cbe2b9811be438f867f7aba37151
+  - enabled: 1
+    path: Assets/Scenes/Scene_Podium.unity
+    guid: 0845cb2dba5d2cd4785862caebcd0783
+  m_configObjects: {}
